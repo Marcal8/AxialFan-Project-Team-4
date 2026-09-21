@@ -9,13 +9,13 @@
 |------|------|-----------------|
 |   Àlex Ruiz   | Design     |        -         |
 |   Marçal Garreta   | CFD     |        Marcal8         |
-|   Guillem Carreta   | Experimentation     |        -         |
+|   Guillem Carreta   | Experimentation     |        UPC-Carreta         |
 
 
 
 ## Project Title
 
-[Title]
+[Advanced Fluid Dynamic Design of a Ceiling Fan: Theoretical Estimation, CFD Simulation, and Experimental Testing]
 
 
 ## Brief description
