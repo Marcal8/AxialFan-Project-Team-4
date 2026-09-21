@@ -1,4 +1,4 @@
-# Constitutive Minutes - Team [Number]
+# Constitutive Minutes - Team 4
 
 **Date:**
 
@@ -7,9 +7,9 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [Name 1]   | Design     |                 |
-|   [Name 2]   | CFD     |                 |
-|   [Name 3]   | Experimentation     |                 |
+|   Àlex Ruiz   | Design     |        -         |
+|   Marçal Garreta   | CFD     |        Marcal8         |
+|   Guillem Carreta   | Experimentation     |        -         |
 
 
 
