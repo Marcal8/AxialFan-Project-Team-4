@@ -15,19 +15,20 @@
 
 ## Project Title
 
-[Advanced Fluid Dynamic Design of a Ceiling Fan: Theoretical Estimation, CFD Simulation, and Experimental Testing]
+[Advanced Fluid Dynamic Design of an Extraction Ventilation Fan: Theoretical Estimation, CFD Simulation, and Experimental Testing]
 
 
 ## Brief description
+The aim of this project is to design, analyse, and experimentally validate an industrial axial extraction fan intended for mechanical ventilation in large industrial environments such as warehouses, workshops, and production facilities.
 Target specifications:
-- Flow rate: 480.000 m³/h
-- Pressure rise: 0 Pa
-- Rotational speed: 100 rpm
 
-As an unducted ceiling-mounted air circulator, the fan operates under free-discharge conditions without ductwork, dampers, or filters posing system resistance.
+- Flow rate: 120.000 m³/h
+- Pressure rise: 300 Pa
+- Rotational speed: 450 rpm
 
-Consequently, the static pressure rise across the rotor is virtually zero, and the shaft power is almost entirely converted into dynamic pressure (air velocity) to drive room circulation.In accordance with the AMCA 230 standard (Laboratory Methods of Testing Air Circulator Fans for Rating), performance ratings for air circulating fans are formally evaluated at a static pressure condition of $0 \text{ Pa}$.
+The proposed fan is designed to extract large volumes of air from an industrial building and discharge it to the outside. The fan must therefore provide sufficient pressure to overcome the resistance of the ventilation system while maintaining the required airflow rate.
 
+The aerodynamic performance of the fan will be investigated through a combination of theoretical calculations, Computational Fluid Dynamics (CFD) simulations, and experimental testing.
 
 ## Team's work regulations:
 
@@ -42,37 +43,4 @@ Consequently, the static pressure rise across the rotor is virtually zero, and t
 ### 3. Decision Making & Quality Standards
 * **Consensus:** Technical decisions (e.g., selecting blade profile, mesh refine criteria) will be made by consensus. In case of disagreement, a majority vote will decide.
 * **Role Accountability:** Each member is responsible for the technical accuracy of their assigned area (Àlex: CAD/Design, Marçal: CFD Simulations, Guillem: Experimental Setup).
-
-## Applications of our design
-
-These type of axial fans - Ceiling Fans are widely used in industrial environments to improve air circulation inside large warehouses. This project focuses on designing a custom fan for a warehouse with defined dimensions, enabling us to verify how effectively air moves thourgh the space. 
-
-## Industrial Ceiling Fan Examples
-
-### Magnovent Airslim M400
-
-This ceiling fan is ideal for ceilings up to five meters high.
-The motor design is 5 cm thcik, which characterizes the fan as lightwaeight and easy to install.
-The model features seven aluminium blades and a drive unit integrated into the ceiling bracket.
-
-#### Technical Specifications:
-
-Diameter: 4 m  
-Blades: 7  
-Weight: 34 Kg  
-Motor Power: 350 W  
-Max. Speed: 56 RPM  
-Max. Flow Rate: 131.673 m**3/h   
-
-$$
-P=350  
-w=56  
-D=4  
-Q1=131673  
-
-q1=Q1/3600  
-print(q1)
-$$
-
-calculapres.py()
 
