@@ -49,15 +49,18 @@ Motor Power:  W
 Max. Speed:  RPM  
 Max. Flow Rate:  m**3/h   
 
-### 
+### Systemair AW 630D4-2
 
+- Wall-mounted axial fan with a square mounting plate and an aerodynamically designed impeller made of die-cast aluminium.
+- Three-phase external rotor motor, four poles, IP54 protection and Class F insulation. The motor includes thermal contacts to prevent overheating and supports speed control.
+<!-- https://www.systemair.com/en-rs/products/fans/axial-fans/aw -->
+<!-- https://planetaklimata.com.ua/instr/Systemair/Systemair_Fans_AW_Data_sheet_Eng.pdf -->
 
+#### Technical Specifications
 
-#### Technical Specifications:
-
-Diameter:  m  
-Blades:   
-Weight:  Kg  
-Motor Power:  W  
-Max. Speed:  RPM  
-Max. Flow Rate:  m**3/h   
+Diameter: 630 mm  
+Blades: 7
+Weight: 32 kg  
+Motor Power: 1900 W  
+Max. Speed: 1340 RPM  
+Max. Flow Rate: 17800 m³/h

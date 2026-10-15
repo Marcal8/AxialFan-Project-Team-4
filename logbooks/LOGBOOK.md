@@ -1,4 +1,4 @@
-# Logbook - Team [Number]
+# Logbook - Team 4
 
 ## YYYY-MM-DD: Name of Meeting (f.i. Kick-off meeting)
 
