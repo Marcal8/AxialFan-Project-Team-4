@@ -2,6 +2,12 @@
 
 ## Specifications of the axial fan of the project
 
+### Dimensions
+
+### Performance
+
+### Estimated Power Consumption
+
 ## Group regulations
 
 ## Applications of our design
@@ -16,20 +22,19 @@ The fan performance will be evaluated through theoretical calculations, CFD simu
 
 ## Industrial Ceiling Fan Examples
 
-### Soler & Palau - HCFB/HCFT
+### Soler & Palau - HCFB/4-630/H
 
 - Wall-mounted axial fan with fiberglass reinforced plastic propeller
-- Single-Phase (HCFB) / Three-Phase (HCFT) motor, 
-- 
+- Single-Phase (HCFB) motor, 4 poles, IP65, F class (operating temperatures between -40ºC and +70ºC), thermal protection incorporated.
 
 #### Technical Specifications:
 
-Diameter:  m  
+Diameter: 630 mm  
 Blades:   
-Weight:  Kg  
-Motor Power:  W  
-Max. Speed:  RPM  
-Max. Flow Rate:  m**3/h   
+Weight: 25 Kg  
+Motor Power: 1573 W  
+Max. Speed: 1380 RPM  
+Max. Flow Rate: 17230 m**3/h   
 
 ### 
 
